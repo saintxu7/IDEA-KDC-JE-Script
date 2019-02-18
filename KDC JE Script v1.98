@@ -1,4 +1,4 @@
-'--------------------------↓请忽略该部分，勿修改----------------------
+'--------------------------↓Defining Variables----------------------
 
 
 	
@@ -140,7 +140,7 @@ Dim LibraryWorkingDirectory As String
 Dim RunAtServer As String
 Dim WorkingDirectoryexport As String
 
-'--------------------------↑请忽略该部分，勿修改----------------------
+'--------------------------↑End of defining variables----------------------
 
 
 
